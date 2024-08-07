@@ -27,7 +27,6 @@ if(n>0)
     printf("Enter the n elements");
     for(i=0;i<n;i++)
     scanf("%d",&a[i]);
-   
     printf("Enter the key element to be searched");
     scanf("%d",&key);
     succ=binsrc(a,0,n-1,key);
