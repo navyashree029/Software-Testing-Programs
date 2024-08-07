@@ -28,7 +28,6 @@ printf("Equilateral ");
 
 else if(a!=b&&b!=c&&c!=a)
 printf("Scalene triangle");
-
 else
 printf("Isoceles triangle");
 else
